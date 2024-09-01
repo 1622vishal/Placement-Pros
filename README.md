@@ -35,10 +35,10 @@ You can see a live demo of this project [Click here](https://placement-pros.netl
 ### Homepage
 ![PlacementPros Homepage](/src/img/home-page.png)
 
-### Cart/Sidebar Page
+### Search Results Page
 ![Search Results](/src/img/search-results.png)
 
-### Products
+### Content from Sidebar
 ![Sidebar](/src/img/side-bar.png)
 
 ## Installation and Setup
