@@ -50,7 +50,7 @@ You can see a live demo of this project [Click here](https://placement-pros.netl
 
 ## Contributing
 
-We welcome contributions to CampusOpedia! If you're interested in contributing, please follow these guidelines:
+We welcome contributions to Placement Pros! If you're interested in contributing, please follow these guidelines:
 
 1. **Fork the repository** to your GitHub account.
 2. **Clone your fork** to your local machine:
@@ -66,7 +66,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - **[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1622vishal)**
 - **[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vishalyadav1622/)**
 - **[![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/f9f808ea-e62e-455e-a72b-65035bdc4ea1)**
-- **Portfolio**: []()
+- **[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-portfoliovishal.netlify.app)**
 
 Feel free to reach out for any questions or collaboration opportunities!
 
