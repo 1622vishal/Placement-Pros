@@ -55,7 +55,7 @@ We welcome contributions to Placement Pros! If you're interested in contributing
 1. **Fork the repository** to your GitHub account.
 2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/your-username/CampusOpedia.git
+   git clone https://github.com/1622vishal/Placement-Pros.git
 
 ## Contact
 
